@@ -2,7 +2,7 @@ MPR121 Capacitive Touch Keypad
 ==============================
 
 [![Capacitive Touch Keypad](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/2/0/1/7/12017-01.jpg)
-*MPR121 Capacitive Touch Keypad (SEN-12017)*](https://www.sparkfun.com/products/12017)
+*[MPR121 Capacitive Touch Keypad (SEN-12017)*](https://www.sparkfun.com/products/12017)
 
 The MPR121 capactiivie keypad uses the MPR121 and 12 touch sensitive pads to give you a simple 'keypad' with an I2C output. The board 
 also has four mounting holes allowing it to be used as na input system in place of traditional buttons. 
